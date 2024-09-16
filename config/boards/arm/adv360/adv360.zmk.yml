@@ -9,8 +9,8 @@ features:
   - underglow
   - backlight
 outputs:
-  - usb
   - ble
+  - usb
 siblings:
   - adv360pro_left
   - adv360pro_right
